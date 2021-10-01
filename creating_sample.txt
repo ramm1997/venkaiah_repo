@@ -1,0 +1,8 @@
+Resource group
+ Vnets
+ Subnets
+ Virtual machines
+ Azure managed databases
+ Application Gateways
+ Azure Application insights
+ Monitoring
